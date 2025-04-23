@@ -15,7 +15,7 @@ A console-based ATM simulation system developed in Java during the CodSoft inter
 
 ## 🚀 Getting Started
 1. Clone the repository  
-   `git clone https://github.com/yourusername/atm-interface.git`
+https://github.com/leenas01/ATM-Interface.git
 2. Compile and run `ATM.java` or your main class
 
 ## 📚 Learning Outcome
